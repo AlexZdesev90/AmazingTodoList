@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amazingtodolist/static/css/main.9e984442.css",
+    "main.js": "/amazingtodolist/static/js/main.4b3bcdcc.js",
+    "index.html": "/amazingtodolist/index.html",
+    "main.9e984442.css.map": "/amazingtodolist/static/css/main.9e984442.css.map",
+    "main.4b3bcdcc.js.map": "/amazingtodolist/static/js/main.4b3bcdcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e984442.css",
+    "static/js/main.4b3bcdcc.js"
+  ]
+}
